@@ -56,6 +56,11 @@
 #header #logo img{
     width: 90%;
     padding-top: 20px;
+    rotate: 0deg !important;
+}
+#header #logo img:hover{
+    rotate: 360deg !important;
+    transition: rotate 2s !important;
 }
 #header button a,
 #sobreLogo a{
