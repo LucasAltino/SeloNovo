@@ -130,7 +130,7 @@
         margin-left: 15px;
     }
     #about .elemento {
-        background-image: url(../ProjetoSelo/img/fotos.png);
+        background-image: url(/img/fotos.png);
         background-size: contain;
         background-repeat: no-repeat;
         margin-top: 28px;
@@ -216,7 +216,7 @@
   }
   
   .wave {
-    background: url(../ProjetoSelo/img/wave.svg);
+    background: url(/img/wave.svg);
     position: absolute;
     width: 200%;
     height: 100%;
@@ -242,7 +242,7 @@
     height: 330px;
   }
   #mar {
-    background-image: url(../ProjetoSelo/img/concha.png);
+    background-image: url(/img/concha.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-size: 105%;
@@ -319,7 +319,7 @@
         margin-left: 8px;
     }
     #about .elemento {
-        background-image: url(../ProjetoSelo/img/fotos.png);
+        background-image: url(/img/fotos.png);
         background-size: contain;
         background-repeat: no-repeat;
         margin-top: 35px;
